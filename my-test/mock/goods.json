@@ -1,0 +1,114 @@
+{
+    "status": 0,
+    "msg": "",
+    "result": [
+        {
+            "cityName": "百色市",
+            "data":[
+                {
+                    "cityName": "百色市",
+                    "title": "百色迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.6分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北海市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北流市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },{
+                    "cityName": "巴中市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                }
+            ]
+        },
+        {
+            "cityName": "北海市",
+            "data":[
+                {
+                    "cityName": "百色市",
+                    "title": "北海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.7分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北海市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北流市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },{
+                    "cityName": "巴中市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                }
+            ]
+        },
+        {
+            "cityName": "巴中市",
+            "data":[
+                {
+                    "cityName": "百色市",
+                    "title": "巴中迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.8分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北海市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },
+                {
+                    "cityName": "北流市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                },{
+                    "cityName": "巴中市",
+                    "title": "上海迪士尼最全攻略，看一篇游记就够了",
+                    "location": "北海",
+                    "image": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2601851995,2958632208&fm=173&s=EB520AD04B105ED809A5C45F03009067&w=218&h=146&img.JPEG",
+                    "grade": "4.5分",
+                    "price": "100元"
+                }
+            ]
+        }
+    ]
+}
